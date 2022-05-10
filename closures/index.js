@@ -1,0 +1,4 @@
+// Closure
+
+function walk() {
+}
