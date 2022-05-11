@@ -14,7 +14,7 @@ function Kid(name, age){
 
 // Prototypes
 
-function Animal(name, region) {
+function Car(name, color) {
   // Properties
 
   // Methods
@@ -22,7 +22,7 @@ function Animal(name, region) {
 
 // Examples for ES6
 
-class Animal2{
+class Animal{
 
 }
 
