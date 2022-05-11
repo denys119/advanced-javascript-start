@@ -1,7 +1,7 @@
 // Apply
 
-const cat = {
+const boy = {
 }
 
-function sayMyWeight(weight) {
+function sayMyAge(name) {
 }
